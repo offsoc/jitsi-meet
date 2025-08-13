@@ -18,7 +18,7 @@
   "dependencies": {
     "@amplitude/analytics-browser": "2.17.12",
     "@amplitude/analytics-react-native": "1.4.13",
-    "@braintree/sanitize-url": "7.0.0",
+    "@braintree/sanitize-url": "7.1.1",
     "@emotion/react": "11.10.6",
     "@emotion/styled": "11.10.6",
     "@giphy/js-fetch-api": "4.9.3",
@@ -48,7 +48,7 @@
     "@tensorflow/tfjs-core": "3.13.0",
     "@vladmandic/human": "2.6.5",
     "@vladmandic/human-models": "2.5.9",
-    "@xmldom/xmldom": "0.8.7",
+    "@xmldom/xmldom": "0.9.8",
     "abab": "2.0.6",
     "allure-commandline": "2.32.0",
     "amplitude-js": "8.21.9",
@@ -62,7 +62,7 @@
     "glob": "11.0.3",
     "grapheme-splitter": "1.0.4",
     "i18n-iso-countries": "6.8.0",
-    "i18next": "17.0.6",
+    "i18next": "25.3.2",
     "i18next-browser-languagedetector": "3.0.1",
     "i18next-http-backend": "2.2.1",
     "image-capture": "0.4.0",
@@ -195,7 +195,7 @@
     "webpack": "5.95.0",
     "webpack-bundle-analyzer": "4.4.2",
     "webpack-cli": "5.1.4",
-    "webpack-dev-server": "5.1.0"
+    "webpack-dev-server": "5.2.1"
   },
   "engines": {
     "node": ">=22.0.0",
